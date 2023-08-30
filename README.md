@@ -3,17 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://facebook.com/b6112002)
 ![1](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/92744dc6-51fd-4170-9a78-ea503d680bef)
 ![2](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/51043ea3-33ef-43ea-bf33-07365e9d2eab)
 ![3](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/f9f8faad-403a-4070-a4b2-039502f27928)
