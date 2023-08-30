@@ -1,9 +1,7 @@
 # chatapp
-
-A new Flutter project.
-
-## Getting Started
 (https://facebook.com/b6112002)
+A new Flutter project.
+## Getting Started
 ![1](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/92744dc6-51fd-4170-9a78-ea503d680bef)
 ![2](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/51043ea3-33ef-43ea-bf33-07365e9d2eab)
 ![3](https://github.com/NtbAndroidDev/chatapp_flutter/assets/135935496/f9f8faad-403a-4070-a4b2-039502f27928)
